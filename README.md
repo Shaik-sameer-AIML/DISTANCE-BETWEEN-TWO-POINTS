@@ -34,6 +34,7 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![output]()
+![output](https://github.com/Shaik-sameer-AIML/DISTANCE-BETWEEN-TWO-POINTS/blob/main/distance%20between%20two%20points.JPG?raw=true)
 
 ### RESULT:
+The program is executed
